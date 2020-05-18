@@ -3,4 +3,4 @@ project(InterviewAlgo)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(InterviewAlgo main.cpp Version_Num_Cmp.cpp Cstring.cpp LRUcache.cpp LRUcache.h)
+add_executable(InterviewAlgo LRUcache.cpp LRUcache.h)
